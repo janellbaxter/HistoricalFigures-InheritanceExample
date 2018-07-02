@@ -1,0 +1,30 @@
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.pdb
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csprojResolveAssemblyReference.cache
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\obj\Debug\MainWindow.g.cs
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\obj\Debug\App.g.cs
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample_MarkupCompile.cache
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample_MarkupCompile.lref
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\obj\Debug\MainWindow.baml
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.g.resources
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.Properties.Resources.resources
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.GenerateResource.Cache
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.exe
+C:\workspace\janell\summer2018\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.pdb
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.pdb
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csprojResolveAssemblyReference.cache
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\obj\Debug\MainWindow.g.cs
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\obj\Debug\App.g.cs
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample_MarkupCompile.cache
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample_MarkupCompile.lref
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\obj\Debug\MainWindow.baml
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.g.resources
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.Properties.Resources.resources
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.GenerateResource.cache
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.exe
+C:\Users\jb\Documents\Visual Studio 2017\Projects\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.pdb
